@@ -21,5 +21,5 @@
 
 # Тест программы 
 ![2024-03-17_17-05-01](https://github.com/Zholkevskayaa/laba-3-/assets/163730600/317b0bc9-c025-4da5-aba5-3840bddb8122)
-![2024-03-17_17-05-13](https://github.com/Zholkevskayaa/laba-3-/assets/163730600/8b0455fe-fc79-4e9f-95e4-eaf31ceca7ba)
 ![2024-03-17_17-06-25](https://github.com/Zholkevskayaa/laba-3-/assets/163730600/e8d1479a-0820-4e7f-a5b1-8de40d92e31f)
+![Снимок экрана (52)](https://github.com/Zholkevskayaa/laba-3-/assets/163730600/4b783485-eb27-4bda-9b17-65347e98a1df)
